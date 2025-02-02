@@ -15,12 +15,11 @@ O desafio consiste em prever se um passageiro foi transportado para outra dimens
 - `reports/` → Resultados e análises.
 - `requirements.txt` → Dependências do projeto.
 
-## ⚙️ Tecnologias Utilizadas
+## ⚙️ Bibliotecas Utilizadas
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-Learn
-- XGBoost, LightGBM
 
 ---
 
