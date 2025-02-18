@@ -77,8 +77,8 @@ Conclusão
 Neste projeto, foi criado um pipeline completo de pré-processamento, treinamento e avaliação de modelos para prever se os passageiros do Titanic Espacial foram transportados ou não. O modelo treinado foi exportado e está disponível para uso posterior.
 
 Tecnologias Utilizadas
-Python: Para processamento de dados e treinamento de modelos.
-pandas: Para manipulação de dados.
-scikit-learn: Para modelos de aprendizado de máquina.
-LightGBM, XGBoost: Modelos baseados em árvores de decisão com alta performance.
-pickle: Para salvar o modelo treinado.
+- Python: Para processamento de dados e treinamento de modelos.
+- pandas: Para manipulação de dados.
+- scikit-learn: Para modelos de aprendizado de máquina.
+- LightGBM, XGBoost: Modelos baseados em árvores de decisão com alta performance.
+- pickle: Para salvar o modelo treinado.
